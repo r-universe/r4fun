@@ -1,10 +1,10 @@
 [
   {
-    "package": "keys",
+    "package": "hover",
     "oncran": true
   },
   {
-    "package": "hover",
+    "package": "keys",
     "oncran": true
   }
 ]
