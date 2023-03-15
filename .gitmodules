@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "hover"]
-	path = hover
-	url = https://github.com/r4fun/hover
-	shallow = true
-	registered = true
 [submodule "keys"]
 	path = keys
 	url = https://github.com/r4fun/keys
+	shallow = true
+	registered = true
+[submodule "hover"]
+	path = hover
+	url = https://github.com/r4fun/hover
 	shallow = true
 	registered = true
